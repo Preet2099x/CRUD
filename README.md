@@ -1,1 +1,1 @@
-# CRUD-
+# A simple CRUD application using React
